@@ -1,0 +1,44 @@
+
+.contengotodo {
+    padding-top: 5em;
+    margin-left: 10%;
+}
+
+
+.cards{   
+    display: flex;
+    flex-direction:row ;
+    flex-wrap: wrap;
+    justify-content: center;
+    opacity: .9;
+    padding: 1em;
+    width: 100%;
+    box-sizing: content-box;
+
+ 
+}
+
+
+.botones{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin-left: 35%;
+}
+
+.checkes{
+    display: flex;
+    width: 20%;
+    margin-left: 35%;
+
+}
+.checks{
+    height: 30%;
+    color: aqua;
+    opacity: .9;
+    width: 000%;
+}
+
+
+
+
